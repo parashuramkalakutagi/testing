@@ -1,0 +1,10 @@
+h1{
+    color:rgb(238, 26, 125);
+    background-color:bisque;
+}
+button{
+    color:rgb(215, 15, 41);
+    background-color: aqua;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+}
